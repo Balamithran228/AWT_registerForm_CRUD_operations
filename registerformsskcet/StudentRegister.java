@@ -4,9 +4,7 @@ package org.registerformsskcet;
 
 
 class StudentRegister
-//implements Serializable
 {
-//    private static final long serialVersionUID = 1L;
 
     private static int nextID = 1;
     private int studentID;
