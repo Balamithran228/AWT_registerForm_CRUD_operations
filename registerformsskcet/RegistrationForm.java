@@ -32,7 +32,6 @@ class RegistrationForm extends Frame
     private ArrayList<StudentRegister> studentList;
 
     RegistrationForm() {
-        System.out.println("Hello wwwww! 1");
 
         studentList = new ArrayList<>();
 
